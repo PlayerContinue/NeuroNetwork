@@ -1,4 +1,4 @@
 #Folders to ignore
-/Debug
-/Release
-/Backup
+Debug/
+Release/
+Backup/
